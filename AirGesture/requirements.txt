@@ -1,0 +1,4 @@
+pip install cv2
+pip install mediapipe
+pip install pyautogui
+pip install numpy
